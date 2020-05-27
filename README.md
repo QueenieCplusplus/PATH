@@ -2,6 +2,8 @@
 
 for Mac
 
+$ which 
+
     $ which < app name >
     
     
