@@ -1,8 +1,15 @@
 # PATH
+
 for Mac
 
     $ which < app name >
+    
+    
+$ echo $PATH
 
+    :/Library/Frameworks/Python.framework/Versions/3.8/bin # Lib/*
+    /usr/local/opt/python@3.8/bin:/usr/local/opt/python@3.8/bin #link/*
+    :/Users/pintred/perl5/bin # app/*
 
 
 finder/
