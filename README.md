@@ -82,7 +82,7 @@ envpath
     
     :wq
     
-    source ~/.bash_profile
+    $source ~/.bash_profile
     
 Ref doc
     
