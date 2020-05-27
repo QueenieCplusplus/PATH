@@ -39,7 +39,7 @@ Y
      $ sudo nano /etc/paths
      
 
-envpath
+envpath, 系統的環境路徑其變數名稱
 
     ✗ printenv
 
@@ -72,7 +72,7 @@ envpath
     PERL_MM_OPT=INSTALL_BASE=/Users/pintred/perl5
     _=/usr/bin/printenv
    
-環境變數下的 path
+環境變數下的 path 即上表中的第 16 項
 
     PATH=/usr/local/opt/python@3.8/bin:/usr/local/opt/python@3.8/bin:/Users/pintred/perl5/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMwareFusion.app/Contents/Public:/usr/local/go/bin
     
