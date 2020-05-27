@@ -72,7 +72,11 @@ envpath
     
     i
     
-    export PATH=$PATH:
+    export PATH=$PATH: < dir >
+    
+    or 
+    
+    export PATH= < dir >:$PATH
     
     esc
     
@@ -80,6 +84,9 @@ envpath
     
     source ~/.bash_profile
     
+Ref doc
+    
+https://www.opencli.com/linux/set-path-var
     
 
 
