@@ -67,5 +67,21 @@ envpath
 增加 path 於環境變數
 
     $vim ~/.bash_profile
+    
+    esc
+    
+    i
+    
+    export PATH=$PATH:
+    
+    esc
+    
+    :wq
+    
+    source ~/.bash_profile
+    
+    
+
+
 
 
