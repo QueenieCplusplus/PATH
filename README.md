@@ -42,6 +42,7 @@ Y
 envpath
 
     ✗ printenv
+
     TMPDIR=/var/folders/81/ncqxl7t95_363jgkl65d573m0000gn/T/
     XPC_FLAGS=0x0
     LaunchInstanceID=3168675C-C44D-44B4-AB4B-6EE11623CD63
@@ -52,11 +53,12 @@ envpath
     XPC_SERVICE_NAME=0
     TERM_PROGRAM=Apple_Terminal
     TERM_PROGRAM_VERSION=433
-    TERM_SESSION_ID=523D8AF0-6E73-472D-AF3F-E40EF65CEEFE
+    TERM_SESSION_ID=61550E79-01DF-482A-9470-6005116C16DA
     SHELL=/bin/zsh
     HOME=/Users/pintred
     LOGNAME=pintred
     USER=pintred
+    PATH=/usr/local/opt/python@3.8/bin:/usr/local/opt/python@3.8/bin:/Users/pintred/perl5/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/go/bin
     SHLVL=1
     PWD=/Users/pintred
     OLDPWD=/Users/pintred
