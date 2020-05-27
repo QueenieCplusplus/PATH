@@ -47,7 +47,6 @@ envpath
     HOME=/Users/pintred
     LOGNAME=pintred
     USER=pintred
-    PATH=/usr/local/opt/python@3.8/bin:/usr/local/opt/python@3.8/bin:/Users/pintred/perl5/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/go/bin
     SHLVL=1
     PWD=/Users/pintred
     OLDPWD=/Users/pintred
@@ -60,3 +59,9 @@ envpath
     PERL_MB_OPT=--install_base "/Users/pintred/perl5"
     PERL_MM_OPT=INSTALL_BASE=/Users/pintred/perl5
     _=/usr/bin/printenv
+   
+環境變數下的 path
+
+    PATH=/usr/local/opt/python@3.8/bin:/usr/local/opt/python@3.8/bin:/Users/pintred/perl5/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMwareFusion.app/Contents/Public:/usr/local/go/bin
+
+
