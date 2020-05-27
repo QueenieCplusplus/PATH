@@ -87,7 +87,10 @@ envpath
 Ref doc
     
 https://www.opencli.com/linux/set-path-var
+
+https://www.brilliantcode.net/466/os-x-uninstall-python/
     
+
 
 
 
